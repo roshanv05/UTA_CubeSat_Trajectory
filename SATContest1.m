@@ -1,4 +1,4 @@
-% Satellite Constellation Simulation and Graphics
+% Satellite Constellation Simulation and Graphics - Matlab CODE
 clear; clc; close all;
 
 % Define the earth and sim parameters
@@ -93,4 +93,5 @@ end
 
 view(3); % 3D view
 hold off;
+
 
